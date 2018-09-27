@@ -4,14 +4,19 @@ using UnityEngine;
 
 public class DamageHandler : MonoBehaviour {
 
-    public int health;
+    public int health = 1;
 
-    void OnTriggerEnter2D()
+    
+    void OnTriggerEnter2D(Collider2D other)
     {
         Debug.Log("Trigger!");
-
-        health--;
+        if (other.CompareTag("Respawn"))
+        {
+            Debug.Log("GetItem!");
+        }
+        else { health--; }
     }
+    
     // Use this for initialization
     void Start () {
 		

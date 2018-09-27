@@ -8,7 +8,7 @@ public class ControllerScript : MonoBehaviour {
 
     public JoyStick joystick;//조이스틱 스크립트
     public float MoveSpeed;//플레이어의 이동속도
-
+    
     public float h;
     public float v;
 	// Use this for initialization
