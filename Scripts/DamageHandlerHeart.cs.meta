@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4f630b4f613df42f1a34288a52f7e8a5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - explode: {fileID: 1799006901393052, guid: 646b3bb96ede646e29bd7fd964844461, type: 2}
+  - expsound: {fileID: 1820360258380200, guid: 3bb79782c5a3d40199d0c131ea2edf56, type: 2}
+  - hpSlider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

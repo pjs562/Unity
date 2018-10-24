@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 35c9ae8581dfa4cbfa0a738139afcdce
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deleteSound: {fileID: 1907396083222494, guid: ae53c5853bdf34467966290ba1152663,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
